@@ -1,0 +1,14 @@
+C:\Users\DemonPredkosci\Desktop\HlawiczkaTest\obj\Debug\HlawiczkaTest.csprojResolveAssemblyReference.cache
+C:\Users\DemonPredkosci\Desktop\HlawiczkaTest\bin\Debug\HlawiczkaTest.dll
+C:\Users\DemonPredkosci\Desktop\HlawiczkaTest\bin\Debug\HlawiczkaTest.pdb
+C:\Users\DemonPredkosci\Desktop\HlawiczkaTest\bin\Debug\nunit.framework.dll
+C:\Users\DemonPredkosci\Desktop\HlawiczkaTest\bin\Debug\WebDriver.dll
+C:\Users\DemonPredkosci\Desktop\HlawiczkaTest\bin\Debug\WebDriver.Support.dll
+C:\Users\DemonPredkosci\Desktop\HlawiczkaTest\bin\Debug\nunit.framework.pdb
+C:\Users\DemonPredkosci\Desktop\HlawiczkaTest\bin\Debug\nunit.framework.xml
+C:\Users\DemonPredkosci\Desktop\HlawiczkaTest\bin\Debug\WebDriver.xml
+C:\Users\DemonPredkosci\Desktop\HlawiczkaTest\bin\Debug\WebDriver.Support.xml
+C:\Users\DemonPredkosci\Desktop\HlawiczkaTest\obj\Debug\HlawiczkaTest.dll
+C:\Users\DemonPredkosci\Desktop\HlawiczkaTest\obj\Debug\HlawiczkaTest.pdb
+C:\Users\DemonPredkosci\Desktop\HlawiczkaTest\bin\Debug\HlawiczkaTestCore.dll
+C:\Users\DemonPredkosci\Desktop\HlawiczkaTest\bin\Debug\HlawiczkaTestCore.pdb
